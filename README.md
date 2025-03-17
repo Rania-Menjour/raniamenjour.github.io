@@ -14,8 +14,7 @@
   - [AI powered energy desaggregation app prototype for web3](https://github.com/AI-Team13/Energy-Genius-AI-)
  
     
-- <b>Optimizing Service Provider Recommendations & Analyzing Customer Feedback</b>
-  - [ML-based solution for optimizing service provider recommendations and analyzing customer feedback prototype](https://github.com/joshmadakor1/EncrypterPOC)
+
 
 
 
