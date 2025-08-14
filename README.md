@@ -13,7 +13,8 @@
 - <b>AI-based Disaggregation Model development</b>
   - [AI powered energy desaggregation app prototype for web3](https://github.com/AI-Team13/Energy-Genius-AI-)
  
-    
+- <b>Robot Trash Picker AI Powered Smart Robotics</b>
+  - [AI Robot Trash Picker prototype](https://github.com/Rania-Menjour/Robot-Trash-Picker-AI-Powered-Smart-Robotics-)
 
 
 
