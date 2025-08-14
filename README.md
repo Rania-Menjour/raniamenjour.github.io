@@ -13,6 +13,9 @@
 - <b>AI-based Disaggregation Model development</b>
   - [AI powered energy desaggregation app prototype for web3](https://github.com/AI-Team13/Energy-Genius-AI-)
  
+- <b>AI-powered retail analytics</b>
+  - [AI-powered retail analytics for sales growth, waste reduction, and customer insights](https://github.com/Rania-Menjour/poc_sales_forecasting)
+ 
 - <b>Robot Trash Picker AI Powered Smart Robotics</b>
   - [AI Robot Trash Picker prototype](https://github.com/Rania-Menjour/Robot-Trash-Picker-AI-Powered-Smart-Robotics-)
 
